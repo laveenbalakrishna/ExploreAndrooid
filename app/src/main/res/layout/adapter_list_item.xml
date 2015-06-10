@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ff0"
+    android:orientation="vertical">
+
+    <!--<TextView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:padding="20dp"
+        android:text="sdds" />
+-->
+   <!-- <View
+        android:layout_width="5dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="#bb4899" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="#bb4899" />-->
+</RelativeLayout>
